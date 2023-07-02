@@ -11,10 +11,10 @@ March 2023
 [https://doi.org/10.1016/j.dam.2023.03.010](https://doi.org/10.1016/j.dam.2023.03.010)
 
 ---
-<center>
+<p align="center">
 <i><b><a href="./main.ipynb"><code>main.ipynb</code></a> uses one of the datasets provided in the paper. For copyright reasons, the dataset is not included in this repository. To access the data you can contact the original authores of the paper.
 </b></i>
-</center>
+</p>
 
 ---
 
