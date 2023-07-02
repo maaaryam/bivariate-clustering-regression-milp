@@ -4,10 +4,9 @@
 
 ## This project implements the following paper:
 
-**A unified framework for bivariate clustering and regression problems via mixed-integer linear programming** *(John Alasdair Warwicker, Steffen Rebennack)*
-
-March 2023
-
+**A unified framework for bivariate clustering and regression problems via mixed-integer linear programming**  
+*(John Alasdair Warwicker, Steffen Rebennack)*  
+*March 2023*  
 [https://doi.org/10.1016/j.dam.2023.03.010](https://doi.org/10.1016/j.dam.2023.03.010)
 
 ---
