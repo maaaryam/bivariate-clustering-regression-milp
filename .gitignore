@@ -6,7 +6,6 @@ py.class
 
 # Scratchbooks
 *.scratch.*
-data/
 
 # OS Generated Stuff
 .DS_Store/
