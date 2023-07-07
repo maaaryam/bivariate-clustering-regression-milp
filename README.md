@@ -23,3 +23,5 @@ This project requires `pyomo` which you can install using **one of** the followi
 $ conda install -c conda-forge pyomo
 $ pip install pyomo
 ```
+
+### Citations
